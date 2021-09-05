@@ -1,3 +1,5 @@
+## Сервер на Python Flask
+
 ### Скриншоты
 
 Страница входа (Sign in)
@@ -6,5 +8,5 @@
 Страница регистрации (Sign up)
 ![singup](screenshots/sign-up.png)
 
-Домашняя страница
+Домашняя страница (Home)
 ![home](screenshots/home-page.png)
